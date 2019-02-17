@@ -4,7 +4,7 @@ date:   2019-02-17 11:30:00
 categories: [Hello, Initial, First]
 tags: [Initial]
 ---
-Hi, my name is `Thiago Rezende` i'm a student of Information Systems, ![](https://img.shields.io/badge/C++--orange.svg) developer and a enthusiast in game-engine development.
+Hello everyone, my name is `Thiago Rezende` i'm a student of Information Systems, ![](https://img.shields.io/badge/C++--orange.svg) developer and a enthusiast in game-engine development.
 
 The main objective of this blog is to keep a post for each of my projects, each of these posts will describe the purpose and functionality of each project that i'm working on and also monitor their progress.
 
