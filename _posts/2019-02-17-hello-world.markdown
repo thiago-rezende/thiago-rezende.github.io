@@ -28,7 +28,7 @@ Check out my [GitHub Page][github] for more info.
 Follow me on [Twitter][twitter].
 My e-mail [bitrateti@gmail.com][e-mail]
 
-[github]:      http://jekyllrb.com
-[twitter]:     https://github.com/jekyll/jekyll
+[github]:      https://www.github.com/thiago-rezende
+[twitter]:     http://twitter.com/_thiago_rezende
 [e-mail]:      mailto:bitrateti@gmail.com
 [shields.io]:  https://shields.io
