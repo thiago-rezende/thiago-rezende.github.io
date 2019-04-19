@@ -25,7 +25,9 @@ int main(int argc, char **argv)
 
 
 Check out my [GitHub Page][github] for more info.
+
 Follow me on [Twitter][twitter].
+
 My e-mail [bitrateti@gmail.com][e-mail]
 
 [github]:      https://www.github.com/thiago-rezende
