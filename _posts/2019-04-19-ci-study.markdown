@@ -29,8 +29,8 @@ The workflow of this project occurs in the following sequence:
 - Commit in Dev branch.
 - CI services run the checks.
 - All checks have passed?
-- - Yes: Can merge with Master.
-- - No: Cannot merge with Master.
+  - Yes: Can merge with Master.
+  - No: Cannot merge with Master.
 
 
 Check out my [GitHub Page][github] for more info.
