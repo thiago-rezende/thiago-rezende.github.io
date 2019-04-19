@@ -1,0 +1,44 @@
+---
+title:  "Ci Study"
+date:   2019-02-17 18:30:00
+categories: [Project]
+tags: [Project, Study, CI, Continuous Integration]
+---
+Hello everyone, in this post i'll describe a little about the [Ci Study](https://github.com/thiago-rezende/ci-study) project that's in my ``Git Hub``.
+
+## This project is for what?
+Just for study purposes
+
+## How was it done?
+The language that i've used was ``JavaScript``, with [Node.JS](https://nodejs.org/). To run the unit tests, i used a package of [Node.JS](https://nodejs.org/) called [Jest](https://jestjs.io/).
+
+For the [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), i've used two services: [CircleCI](https://circleci.com) and [Travis CI](https://travis-ci.org/).
+
+## Repo Structure
+This repository is made up of two branches: [master](https://github.com/thiago-rezende/ci-study/tree/master) and [dev](https://github.com/thiago-rezende/ci-study/tree/dev).
+
+#### Master Branch
+The master branch is where the ``Release`` or passing build lives. This branch cannot receive commits directly, it needs to receive a merge from another branch that has passed in all the tests performed by the above-mentioned Continuous Integration services.
+
+#### Dev Branch
+The dev branch is where the ``Bleeding Edge`` code lives, also where development occurs.
+
+## Workflow
+The workflow of this project occurs in the following sequence:
+
+- Commit in Dev branch.
+- CI services run the checks.
+- All checks have passed?
+- - Yes: Can merge with Master.
+- - No: Cannot merge with Master.
+
+
+Check out my [GitHub Page][github] for more info.
+
+Follow me on [Twitter][twitter].
+
+My e-mail [bitrateti@gmail.com][e-mail]
+
+[github]:      https://www.github.com/thiago-rezende
+[twitter]:     http://twitter.com/_thiago_rezende
+[e-mail]:      mailto:bitrateti@gmail.com
