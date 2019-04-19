@@ -1,6 +1,6 @@
 ---
 title:  "Ci Study"
-date:   2019-02-17 18:30:00
+date:   2019-04-19 18:30:00
 categories: [Project]
 tags: [Project, Study, CI, Continuous Integration]
 ---
