@@ -37,8 +37,8 @@ Check out my [GitHub Page][github] for more info.
 
 Follow me on [Twitter][twitter].
 
-My e-mail [bitrateti@gmail.com][e-mail]
+My e-mail [horus.he4rt@gmail.com][e-mail]
 
 [github]:      https://www.github.com/thiago-rezende
-[twitter]:     http://twitter.com/_thiago_rezende
-[e-mail]:      mailto:bitrateti@gmail.com
+[twitter]:     http://twitter.com/HorusHe4rt
+[e-mail]:      mailto:horus.he4rt@gmail.com
